@@ -5,6 +5,6 @@
     </b>
   </h1>
 </p>  
-----
+
 This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
 ## 📸 Screenshots
