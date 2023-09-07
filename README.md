@@ -12,10 +12,10 @@ This is the core code from scratch to clone the landing page of Netflix using **
 <br>
 <img src= "Images/Second page.png">
 <br>
-<img src= "Images/Third page.png">
+<img src= "Images/Third Page.png">
 <br>
 <img src= "Images/Fourth page.png">
 <br>
-<img src= "Images/Fifth.png">
+<img src= "Images/Fifth page.png">
 <br>
 <img src= "Images/Questions page.png">
