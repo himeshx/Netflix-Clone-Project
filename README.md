@@ -10,7 +10,6 @@ This is the core code from scratch to clone the landing page of Netflix.
 <br>
 
 - This is my Linkedin profile: <a href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">```Linkedin```</a>
-<br>
 
 - My GitHub profile: <a href="https://github.com/himeshx">```Github!```</a>
 <hr>
