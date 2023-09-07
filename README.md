@@ -4,11 +4,10 @@
   Netflix-Clone     <!--The title for my project.--> 
     </b>
   </h1>
-Welcome to my Netflix Clone project, a web application built with HTML, CSS, and JavaScript that brings the Netflix experience to your browser! This project aims to replicate the look and feel of the popular streaming service, allowing users to browse and discover movies and TV shows in a familiar interface
-This is the core code from scratch to clone the landing page of Netflix.
-  
-- My Linkedin profile: <a href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">```Linkedin!```</a>
 </p>
+Welcome to my Netflix Clone project, a web application built with HTML, CSS, and JavaScript that brings the Netflix experience to your browser! This project aims to replicate the look and feel of the popular streaming service, allowing users to browse and discover movies and TV shows in a familiar interface
+This is the core code from scratch to clone the landing page of Netflix. My Linkedin profile: <a href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">```Linkedin!```</a>
+
 ## 📸 Screenshots
 <img src= "Images/Main page.png">
 <br>
