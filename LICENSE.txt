@@ -1,0 +1,14 @@
+MIT LICENSE
+
+Copyright (c) 2023 Himesh Mohapatra
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files of the software, to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all the copies or substantial portions of the Software.
+
+Under section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, teaching, education, scholarship and research. Fair use is a use permitted by the copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.
