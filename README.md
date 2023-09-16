@@ -1,7 +1,7 @@
 <p>
   <h1 align="center">
     <b>
-  Netflix-Clone     <!--The title for my project.--> 
+  Netflix-Clone     
     </b>
   </h1>
 </p>
